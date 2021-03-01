@@ -1,4 +1,8 @@
 # ProjetoJava_01 
 
-Usado linguagem Java e Mysql para programação e persistencia de dados
+Usado linguagem Java e Mysql para programação e persistencia de dados.
+
+Mysql \\ root@localhost     \\ senha: 12345
+
+
 
